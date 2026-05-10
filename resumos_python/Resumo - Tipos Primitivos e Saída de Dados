@@ -1,0 +1,39 @@
+Tipos Primitivos e Saída de Dados
+
+input - faz a leitura de um valor
+ex: nome = input('Digite seu nome: ')
+
+print - devolve uma função
+ex: print('Olá, mundo!')
+
+int - converte um valor em um número inteiro
+ex: número = int(input('Digite um número: ')
+
+float - converte um valor em um número real (ponto flutuante)
+ex: número = float(input('Digite um número: ')
+
+bool - valor lógico, verdadeiro ou falso (True or false)
+ex: número_real = false
+    número = bool(input('Digite um número: ')
+    print(número)
+
+str - são as palavras que compõem uma função
+ex: ('Olá; Seja bem-vindo; Até breve!')
+
+Para adicionar uma váriavel dentro da função:
+
+Versão simples:
+nome = input('Digite seu nome: ')
+print('Olá', nome)
+
+Versão antiga:
+nome = input('Digite seu nome: ')
+print('Olá {}!'.format(nome)
+Obs: essa versão foi "substituída" pela f'string
+
+Versão atual:
+nome = input('Digite seu nome: ')
+print(f'Olá, {}!')
+
+
+
