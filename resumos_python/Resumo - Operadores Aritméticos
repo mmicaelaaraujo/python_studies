@@ -1,0 +1,33 @@
+Operadores Aritméticos
+
+Operadores básicos:
+
+Adição = +
+Subtração = -
+Divisão = /
+Multiplicação = *
+
+Operadores extras:
+
+Potência = **
+Divisão inteira = // (DIV)
+Resto de divisão = % (MOD
+
+'==' = igualdade dentro da linguagem python
+
+Ordem de precedência:
+
+1- () Parênteses
+2- ** Potências
+3- *, /, // e %
+4- + e -
+
+Dicas de formatação
+
+Para não quebrar a linha:
+- No final da função, digite ,end=''
+
+Para quebrar:
+- \n dentro da função, no local que você deseja quebrar a linha
+
+
