@@ -1,0 +1,20 @@
+# Módulos
+
+import = serve para importar dados dentro de uma variável
+Ex: bebida = café, suco, água
+    import bebida
+
+from = para importar itens especificos dentro da váriavel principal
+Ex: doce = pudim, bala, bolo
+    from doce import pudim
+
+Bibliotecas padrão:
+
+match = biblioteca que armazena funcionalidades matemáticas
+
+    ceil = arredonda um valor para cima
+    floor = arredonda um valor para baixo
+    trunc = elimina o número da vírgula para a frente
+    pow = potência, funciona de forma similar ao **
+    sqrt = calcula raiz quadrada
+    factorial = para calcular fatorial 
